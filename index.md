@@ -39,4 +39,3 @@ The Organising Committee of Electron Crystallography School (ECS22) shall observ
 - Stéphanie Kodjikian, Grenoble, France, stephanie.kodjikian@neel.cnrs.fr – Co-chair of ECA Electron Crystallography SIG04
 - Tatiana Gorelik, Ulm, Germany, tatiana.gorelik@uni-ulm.de – Chair of ECA Electron Crystallography SIG04
 - Mauro Gemmi, Pisa, Italy, mauro.gemmi@iit.it – Chair of IUCr Commission on Electron Crystallography
-
