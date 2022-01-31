@@ -14,8 +14,8 @@ The school will cover diverse theoretical and practical aspects of **3D electron
 The school will gather most prominent scientists working in the field of 3D ED and serve as a common platform for discussions between experts in electron diffraction method development, application specialists, data processing and structure determination software developers, as well as companies working in the field of electron diffraction, including TEM manufacturers, companies building diverse TEM accessories (sample holders for specific applications, robust, fast and sensitive detectors, electron beam precession units, etc.) and companies creating dedicated electron diffractometers. The mix between academic experts, regular participants and company’s representatives will provide a unique opportunity to learn about the current state of 3D ED technique and participate in shaping the future of the method. 
 
 ### Confirmed speakers:
-- Philippe Boullay, Caen, France, philippe.boullay@ensicaen.fr
-- Mauro Gemmi, Pisa, Italy, mauro.gemmi@iit.it
+- Philippe Boullay, Caen, France
+- Mauro Gemmi, Pisa, Italy
 - ...
 
 ### School Program 
