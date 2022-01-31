@@ -7,11 +7,7 @@
 
 **_Shape the future of electron crystallography with us!_**
 
-The IUCr Commission on Electron Crystallography, the ECA Electron Crystallography SIG04 and the French Microscopy Society (SFµ) are organising an **“Electron Crystallography School” (ECS)** as a satellite event to the **33rd European Crystallographic Meeting (ECM33)** (https://www.ecm33.fr/), held in Versailles, France on the 23rd – 27th August 2022. The school will take place right after the ECM33, on the 29th August – 1st September 2022 in Paris area. 
-
-<li class="masthead__menu-item">
-          <a href="https://xxx.github.io/home/research/">Research</a>
-        </li>
+The IUCr Commission on Electron Crystallography, the ECA Electron Crystallography SIG04 and the French Microscopy Society (SFµ) are organising an **“Electron Crystallography School” (ECS)** as a satellite event to the **33rd European Crystallographic Meeting (ECM33)** https://www.ecm33.fr/, held in Versailles, France on the 23rd – 27th August 2022. The school will take place right after the ECM33, on the 29th August – 1st September 2022 in Paris area. 
 
 The school will cover diverse theoretical and practical aspects of **3D electron diffraction technique (3D ED / microED)** and its application to structure determination of nano/microcrystalline materials of different classes – from _inorganic_, to _organic_ and _biological_ compounds. The school will include lectures and tutorials demonstrating the use of electron diffraction data for structure analysis. We plan a poster session, where students can present their work and a panel discussion about the future developments of 3D ED. 
 
@@ -27,8 +23,7 @@ The school will gather most prominent scientists working in the field of 3D ED a
 [ECS@ECM33-program.pdf](https://github.com/tatigorelik/ECS2022/files/7970207/ECS%40ECM33-program.pdf)
 
 ### School Venue
-CNRS administrative center (in French) 
-[https://www.iledefrance-meudon.cnrs.fr]
+CNRS administrative center (in French) https://www.iledefrance-meudon.cnrs.fr
 
 ### Registration 
 The information about the registration procedure will be available here asap.
