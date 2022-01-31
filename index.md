@@ -23,7 +23,7 @@ The school will gather most prominent scientists working in the field of 3D ED a
 [ECS@ECM33-program.pdf](https://github.com/tatigorelik/ECS2022/files/7970207/ECS%40ECM33-program.pdf)
 #
 ### School Venue
-Venue (in French) https://www.iledefrance-meudon.cnrs.fr
+CNRS administrative center (in French) https://www.iledefrance-meudon.cnrs.fr
 #
 ### Registration 
 The information about the registration procedure will be available here asap.
