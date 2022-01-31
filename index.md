@@ -1,5 +1,6 @@
 ![ECS-logo-small](https://user-images.githubusercontent.com/20994976/151787906-018ebaea-b8c5-4990-8cbf-ac8bcde0a6d6.png)
-# 29th August – 1st September 2022, Paris, France
+**29th August – 1st September 2022, Paris, France**
+
 ![sig4_logo](https://user-images.githubusercontent.com/20994976/151785854-9682c06c-e961-4082-a9ee-448b49da04b8.png)
 ![logo-header](https://user-images.githubusercontent.com/20994976/151785199-9f4b6323-3088-41bf-9c1d-1aa06d1d5ac4.png)
 ![iucr-logo_small](https://user-images.githubusercontent.com/20994976/151786467-77b13357-a4d3-4d01-b799-fa4877bae576.png)
