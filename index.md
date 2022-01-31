@@ -9,6 +9,10 @@
 
 The IUCr Commission on Electron Crystallography, the ECA Electron Crystallography SIG04 and the French Microscopy Society (SFµ) are organising an **“Electron Crystallography School” (ECS)** as a satellite event to the **33rd European Crystallographic Meeting (ECM33)** (https://www.ecm33.fr/), held in Versailles, France on the 23rd – 27th August 2022. The school will take place right after the ECM33, on the 29th August – 1st September 2022 in Paris area. 
 
+<li class="masthead__menu-item">
+          <a href="https://xxx.github.io/home/research/">Research</a>
+        </li>
+
 The school will cover diverse theoretical and practical aspects of **3D electron diffraction technique (3D ED / microED)** and its application to structure determination of nano/microcrystalline materials of different classes – from _inorganic_, to _organic_ and _biological_ compounds. The school will include lectures and tutorials demonstrating the use of electron diffraction data for structure analysis. We plan a poster session, where students can present their work and a panel discussion about the future developments of 3D ED. 
 
 The school will gather most prominent scientists working in the field of 3D ED and serve as a common platform for discussions between experts in electron diffraction method development, application specialists, data processing and structure determination software developers, as well as companies working in the field of electron diffraction, including TEM manufacturers, companies building diverse TEM accessories (sample holders for specific applications, robust, fast and sensitive detectors, electron beam precession units, etc.) and companies creating dedicated electron diffractometers. The mix between academic experts, regular participants and company’s representatives will provide a unique opportunity to learn about the current state of 3D ED technique and participate in shaping the future of the method. 
