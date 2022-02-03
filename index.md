@@ -35,7 +35,7 @@ Here
 The Organising Committee of Electron Crystallography School (ECS22) shall observe the basic policy of non-discrimination and affirms the rights of scientists throughout the world to adhere or to associate with international scientific activity without regard to such factors as ethnic origin, religion, citizenship, language, political stance, gender, sex, or age, in accordance with the Statues of the International Council for Science.  At this school no barriers will exist which would prevent the participation of _bona fide_ scientists.
 
 ### Organizers:
-- Philippe Boullay, Caen, France, philippe.boullay@ensicaen.fr  – School director
-- Stéphanie Kodjikian, Grenoble, France, stephanie.kodjikian@neel.cnrs.fr – Co-chair of ECA Electron Crystallography SIG04
-- Tatiana Gorelik, Ulm, Germany, tatiana.gorelik@uni-ulm.de – Chair of ECA Electron Crystallography SIG04
-- Mauro Gemmi, Pisa, Italy, mauro.gemmi@iit.it – Chair of IUCr Commission on Electron Crystallography
+- Philippe Boullay, Caen, France, [mailto](mailto:philippe.boullay@ensicaen.fr)  – School director
+- Stéphanie Kodjikian, Grenoble, France, [mailto](mailto:stephanie.kodjikian@neel.cnrs.fr) – Co-chair of ECA Electron Crystallography SIG04
+- Tatiana Gorelik, Ulm, Germany, [mailto](mailto:tatiana.gorelik@uni-ulm.de) – Chair of ECA Electron Crystallography SIG04
+- Mauro Gemmi, Pisa, Italy, [mailto](mailto:mauro.gemmi@iit.it) – Chair of IUCr Commission on Electron Crystallography
