@@ -7,7 +7,7 @@
 
 **_Shape the future of electron crystallography with us!_**
 
-The IUCr Commission on Electron Crystallography, the ECA Electron Crystallography SIG04 and the French Microscopy Society (SFµ) are organising an **“Electron Crystallography School” (ECS)** as a satellite event to the **33rd European Crystallographic Meeting (ECM33)** [https://www.ecm33.fr/](https://www.ecm33.fr/), held in Versailles, France on the 23rd – 27th August 2022. The school will take place right after the ECM33, on the 29th August – 1st September 2022 in Paris area. 
+The IUCr Commission on Electron Crystallography, the ECA Electron Crystallography SIG04 and the French Microscopy Society (SFµ) are organising an **“Electron Crystallography School” (ECS)** as a satellite event to the **33rd European Crystallographic Meeting (ECM33)** [https://www.ecm33.fr/][], held in Versailles, France on the 23rd – 27th August 2022. The school will take place right after the ECM33, on the 29th August – 1st September 2022 in Paris area. 
 
 The school will cover diverse theoretical and practical aspects of **3D electron diffraction technique (3D ED / microED)** and its application to structure determination of nano/microcrystalline materials of different classes – from _inorganic_, to _organic_ and _biological_ compounds. The school will include lectures and tutorials demonstrating the use of electron diffraction data for structure analysis. We plan a poster session, where students can present their work and a panel discussion about the future developments of 3D ED. 
 
@@ -35,7 +35,7 @@ Here
 The Organising Committee of Electron Crystallography School (ECS22) shall observe the basic policy of non-discrimination and affirms the rights of scientists throughout the world to adhere or to associate with international scientific activity without regard to such factors as ethnic origin, religion, citizenship, language, political stance, gender, sex, or age, in accordance with the Statues of the International Council for Science.  At this school no barriers will exist which would prevent the participation of _bona fide_ scientists.
 
 ### Organizers:
-- Philippe Boullay, Caen, France, [mailto](mailto:philippe.boullay@ensicaen.fr)  – School director
-- Stéphanie Kodjikian, Grenoble, France, [mailto](mailto:stephanie.kodjikian@neel.cnrs.fr) – Co-chair of ECA Electron Crystallography SIG04
-- Tatiana Gorelik, Ulm, Germany, [mailto](mailto:tatiana.gorelik@uni-ulm.de) – Chair of ECA Electron Crystallography SIG04
-- Mauro Gemmi, Pisa, Italy, [mailto](mailto:mauro.gemmi@iit.it) – Chair of IUCr Commission on Electron Crystallography
+- Philippe Boullay, Caen, France, [philippe.boullay@ensicaen.fr](mailto:philippe.boullay@ensicaen.fr)  – School director
+- Stéphanie Kodjikian, Grenoble, France, [stephanie.kodjikian@neel.cnrs.fr](mailto:stephanie.kodjikian@neel.cnrs.fr) – Co-chair of ECA Electron Crystallography SIG04
+- Tatiana Gorelik, Ulm, Germany, [tatiana.gorelik@uni-ulm.de](mailto:tatiana.gorelik@uni-ulm.de) – Chair of ECA Electron Crystallography SIG04
+- Mauro Gemmi, Pisa, Italy, [mauro.gemmi@iit.it](mailto:mauro.gemmi@iit.it) – Chair of IUCr Commission on Electron Crystallography
